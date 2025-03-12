@@ -11,7 +11,7 @@ namespace testGit
         static void Main(string[] args)
         {
             double liczba1 = 5;
-            double liczba2 = 4;
+            double liczba2 = 44;
             Console.WriteLine($"{liczba1} + {liczba2} = {suma(liczba1, liczba2)}");
         }
     }
